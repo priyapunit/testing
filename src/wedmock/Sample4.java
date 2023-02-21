@@ -9,6 +9,7 @@ public class Sample4 {
 		System.out.println(rem);
 		int mul ;
 		mul=a*b;
+		
 
 	}
 
